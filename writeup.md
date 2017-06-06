@@ -42,5 +42,14 @@ the lines.
 
 ### 2. Shortcomings
 
-One possible shortcoming would be on moment to identify/draw the full line, sometimes
-the line does not stay to the full extent as in example P1_example.mp4
+One potential shortcoming would be what would happen when there are curve. 
+
+Another shortcoming happen when in middle of lane lines there are brake marks
+
+I don't know why but sometimes on video, the line is not drawn
+
+### 3. improvements to pipeline
+
+Maybe, improving how it draw the full lines
+
+Draw curves
